@@ -5,7 +5,9 @@
 /*Components*/
 @import "component/nav.css";
 @import "component/status-bar.css";
-@import "component/screen-header.css"; /*Screens*/
+@import "component/screen-header.css";
+/*Screens*/
+@import "friends.css";
 @import "screens/login.css";
 body {
   font-family: "Open Sans", sans-serif;
